@@ -4,6 +4,7 @@
 # jp-lobby.nikke-kr.com, 登录服务器
 # cloud.nikke-kr.com, 游戏服务器
 # nikke-en.com，内置网页
+DOMAIN-SUFFIX,intlgame.com
 DOMAIN-SUFFIX,nikke-kr.com
 DOMAIN-SUFFIX,jp-lobby.nikke-kr.com
 DOMAIN-SUFFIX,cloud.nikke-kr.com
