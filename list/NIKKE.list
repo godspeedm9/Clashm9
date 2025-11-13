@@ -1,9 +1,10 @@
 # NAME: NIKKE
 # AUTHOR: SAYHIBOY888
 # UPDATED: 2025-09-13 
-# jp-lobby.nikke-kr.com, 登录服务器
+# jp-lobby.nikke-kr.com, 日服登录服务器
 # cloud.nikke-kr.com, 游戏服务器
 # nikke-en.com，内置网页
+# jp-match.nikke-kr.com，共斗匹配
 DOMAIN-SUFFIX,nikke-kr.com
 DOMAIN-SUFFIX,nikke-de.com
 DOMAIN-SUFFIX,nikke-en.com
